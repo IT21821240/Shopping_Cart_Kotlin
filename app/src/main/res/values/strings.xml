@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application_labExam3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome">WELCOME</string>
+    <string name="message1">Enjoy Your Shopping</string>
+    <string name="message2">Hava A Nice Day!</string>
+    <string name="name">HAPPY DEALS</string>
+    <string name="btn1">HOME</string>
+    <string name="btn2">SHOP</string>
+    <string name="btnAdd">Add Item</string>
+    <string name="alertTitle">Enter New item:</string>
+    <string name="alertMessage">Enter the todo item below:</string>
+
+</resources>
